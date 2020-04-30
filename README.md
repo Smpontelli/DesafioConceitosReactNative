@@ -11,13 +11,13 @@
   <a href="#desc-descrição">Descrição</a>
 </p>
 
-## :tools: Ferramentas utilizadas
+## Ferramentas utilizadas
 
 Neste desafio foram utilizados as ferramentas: **[NodeJS](https://github.com/nodejs)**, **[Yarn](https://github.com/yarnpkg/yarn)**, **[React](https://github.com/facebook/react)** e **[React Native](https://github.com/facebook/react-native)**
 
 Este projeto foi rodado no **Windows**, então todos os comandos são para este SO.
 
-## :intro: Instruções para execução do projeto
+## Instruções para execução do projeto
 
 Para a devida execução desta ferramenta é necessário estar rodando o backend e o frontend antes de executar o mobile.
 
@@ -40,11 +40,11 @@ Abrirá uma página no seu navegador.
 Dentro de om outro termina aberto, acesse a pasta do mobile digite o comando `npx react-native run-android` e deixe rodando
 Abrirá um aplicativo no seu mobile.
 
-## :desc: Descrição
+## Descrição
 
 Esta ferramenta é para mostrar que ao adicionarmos uma nova informação dentro do navegador, é possível exibir e interagir com ela dentro do mobile, tudo isto utilizando o backend para fazer o interfaceamento entre eles.
 
-Depois dos comandos executados então abrirá no navegador uma página com a url `http://localhost:3000/` nela clice no botão **Adicionar** para mostrar a frase: **Novo Repositorio** seguida de um numero de identificação e por um botão **Remover**
+Depois dos comandos executados então abrirá no navegador uma página com a url `http://localhost:3000/` nela clique no botão **Adicionar** para mostrar a frase: **Novo Repositorio** seguida de um numero de identificação e por um botão **Remover**
 
 Depois de algum tempo, se tudo tiver dado certo deverá abrir no mobile um aplicativo, nesse aplicativo é possível ver a frase: **Novo Repositorio** seguida de um numero de identificação e por **NodeJS** escrito duas vezes dentro de uma caixa verde
 seguido pelo **numero de curtidas** e em baixo um botão **curtir**. Ao clicar no botão **curtir** o numero de curtidas aumenta.
