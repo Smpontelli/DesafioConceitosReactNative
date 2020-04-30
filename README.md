@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-  <a href="#tools-ferramentas-utilizadas">Ferramentas utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#intro-instruções-para-execução-do-projeto">Instruções para execução do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desc-descrição">Descrição</a>
+  <a href="#ferramentas-utilizadas">Ferramentas utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instruções-para-execução-do-projeto">Instruções para execução do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#descrição">Descrição</a>
 </p>
 
 ## Ferramentas utilizadas
